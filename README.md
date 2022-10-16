@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My Plofile
+### My Profile
 
 - [SAgiKPJH Profile](https://github.com/SAgiKPJH/Profile)
 
