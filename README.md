@@ -29,7 +29,7 @@
 
 <br>
 
-### My Goal
+### My Month Goal
 
 No | Theme | Goal | Status (now/goal) | Dead Line
 --- | --- | --- | --- | ---
