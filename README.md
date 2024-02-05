@@ -25,8 +25,8 @@
 
 ### When I 2024...
 
-- Drawing Tree : 0
-- Read a Book : 0
+- Drawing Tree : 1
+- Read a Book : 0 (https://github.com/SAgiKPJH/Read_Book_List/blob/main/README.md)
 
 <br>
 
@@ -40,7 +40,7 @@ No | Theme | Goal | Status (now/goal) | Dead Line
 4 | 운동 | 한 발 스쿼트 15개 | 13/15 | 24.01.31
 5 | 운동 | 앉아 이블아이 완전 1분 | 37s/60s | 24.01.31
 6 | 그림 | 기차여행 1화 (한달 1회) | 1/5 | 24.01.31
-7 | 그림 | 나무그림 8그루 | 0/8 | 24.01.31
+7 | 그림 | 나무그림 8그루 | 1/8 | 24.02.12.
 8 | 책 | 4권 읽기 | 0/4 | 24.01.31
 9 | 코딩 | 신경 노드 구현 | 0/5 | 24.1.2w
 10 | 코딩 | XOR 문제 구현 | 0/5 | 24.1.3w
