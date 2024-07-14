@@ -31,7 +31,7 @@
 ### When I 2024...
 
 - Drawing Tree : 1
-- Read a Book : 0 (https://github.com/SAgiKPJH/Read_Book_List/blob/main/README.md)
+- Read a Book : 6 (https://github.com/SAgiKPJH/Read_Book_List/blob/main/README.md)
 
 <br>
 
